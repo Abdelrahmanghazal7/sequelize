@@ -1,0 +1,22 @@
+{
+  "name": "sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "20.12.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7",
+    "sequelize": "^6.37.3"
+  }
+}
